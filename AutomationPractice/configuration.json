@@ -1,0 +1,17 @@
+{
+  "Url": "http://automationpractice.com/index.php",
+  "ScreenShotFolder": "c:\\Users\\yandru\\Desktop\\Trainings\\Automation\\Solutions\\Screenshots",
+  "Users": [
+    {
+      "Type":  "positive", 
+      "Login": "skullmail@ukr.net",
+      "Password": "12345",
+      "Name": "A Che"
+    },
+    {
+      "Type": "negative",
+      "Login": "negative@ukr.net",
+      "Password": "12345"
+    }
+  ]
+}
